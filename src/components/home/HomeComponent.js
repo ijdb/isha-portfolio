@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import LinkBtnComponent from "./LinkBtnComponent";
+import LinkBtnComponent from "../LinkBtnComponent";
 
 function HomeComponent() {
 	return (
@@ -12,7 +12,7 @@ function HomeComponent() {
 				and <strong>CSS</strong>, and I love building apps that are delightful
 				to use.
 			</div>
-			<LinkBtnComponent />
+			<LinkBtnComponent text="SEE MY PROJECTS" />
 		</div>
 	);
 }
