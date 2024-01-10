@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    height: 3.8rem;
+    background-color: bisque;
+    font-weight: 600;
+}
+.header-link {
+    text-transform: uppercase;
+    margin-right: 3em;
+}
+.left-head {
+    display: flex;
+    margin-right: auto;
+    margin-left: 2.4em;
+    gap: 1rem;
+    align-items: center;
+}
+.header-img {
+    border-radius: 50%;
+    width: 8%;
+}
+.header-name {
+    font-size: 1em; 
+}
+.right-head {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.9em;
+}
