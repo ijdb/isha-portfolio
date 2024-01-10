@@ -1,0 +1,23 @@
+.home {
+    background-color: #4081C5;
+    color: white;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 5em;
+}
+.intro {
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2.8px;
+    margin-top: 4em;
+    word-spacing: 0.1em;
+}
+.intro-text {
+    max-width: 40vw;
+    text-align: center;
+    font-size: 1.5em;
+    
+}
