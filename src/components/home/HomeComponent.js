@@ -12,7 +12,12 @@ function HomeComponent() {
 				and <strong>CSS</strong>, and I love building apps that are delightful
 				to use.
 			</div>
-			<LinkBtnComponent text="SEE MY PROJECTS" />
+			<LinkBtnComponent
+				text="see my projects"
+				bg="white"
+				fg="black"
+				padding="1em 4em"
+			/>
 		</div>
 	);
 }
