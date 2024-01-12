@@ -4,7 +4,7 @@ import LinkBtnComponent from "../LinkBtnComponent";
 
 function HomeComponent() {
 	return (
-		<div className="home">
+		<div className="home" id="home">
 			<h1 className="intro">Hey, My name is Isha Jain</h1>
 			<div className="intro-text">
 				I am a passionate frontend developer based in Gurugram, India. My

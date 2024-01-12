@@ -16,7 +16,7 @@ function ProjectComponent() {
 			"An app that generates random passwords based on a few user inputs,e.g. length, types of characters, etc. Built with HTML, CSS, and vanilla JavaScript.",
 	};
 	return (
-		<div>
+		<div id="projects">
 			<div className="project-com-top">
 				<HeadingComponent text="Projects" />
 				<HeadingText

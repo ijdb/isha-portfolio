@@ -18,7 +18,7 @@ function AboutComponent() {
 		"GitHub",
 	];
 	return (
-		<div className="about-section-container">
+		<div className="about-section-container" id="about">
 			<div className="top-about-sec">
 				<HeadingComponent text="about me" />
 				<HeadingText text="I'm a frontend developer based out of London, UK. I love building apps that solve real-world problems, and that are delightful to use. My specialities include TypeScript, React JS, Tailwind CSS, and Styled Components." />

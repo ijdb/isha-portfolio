@@ -12,7 +12,7 @@ function HeaderComponent() {
 			</div>
 			<div className="right-head">
 				{headerLinks.map((link) => (
-					<HeaderLinkComponent text={link} />
+					<HeaderLinkComponent text={link} key={link} id={link} />
 				))}
 			</div>
 		</header>

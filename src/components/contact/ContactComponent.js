@@ -5,7 +5,7 @@ import HeadingText from "../HeadingText";
 
 function ContactComponent() {
 	return (
-		<div className="contact-section-container">
+		<div className="contact-section-container" id="contact">
 			<HeadingComponent text="contact" />
 			<HeadingText
 				fg="white"
