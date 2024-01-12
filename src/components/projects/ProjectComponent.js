@@ -2,6 +2,7 @@ import React from "react";
 import HeadingComponent from "../HeadingComponent";
 import "./project.css";
 import ProjectItem from "./ProjectItem";
+import HeadingText from "../HeadingText";
 
 function ProjectComponent() {
 	const project1 = {
@@ -18,10 +19,10 @@ function ProjectComponent() {
 		<div>
 			<div className="project-com-top">
 				<HeadingComponent text="Projects" />
-				<div className="project-text">
-					All my projects include links to the code and live version. Click the
-					button to learn more about each one.
-				</div>
+				<HeadingText
+					text="All my projects include links to the code and live version. Click the
+					button to learn more about each one."
+				/>
 			</div>
 			<ProjectItem appTitle={project1.title} appAbout={project1.about} />
 			<ProjectItem appTitle={project2.title} appAbout={project2.about} />

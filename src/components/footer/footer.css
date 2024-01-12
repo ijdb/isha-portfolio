@@ -1,0 +1,20 @@
+.footer-sec-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em 3em;
+    background-color: black;
+    color: white;
+    height: 30vh;
+}
+.name-section, .social-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.name, .social {
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+

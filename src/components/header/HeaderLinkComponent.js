@@ -1,7 +1,7 @@
 import React from "react";
 
 function HeaderLinkCpmponent({ text }) {
-	return <div className="header-link">{text}</div>;
+	return <a className="header-link">{text}</a>;
 }
 
 export default HeaderLinkCpmponent;

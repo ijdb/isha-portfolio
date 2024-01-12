@@ -5,10 +5,6 @@
     margin-top: 5em;
     gap: 2em;
 }
-.project-text {
-    color: gray;
-    font-size: 1.2em;
-}
 .project-item-container {
     display: flex;
     justify-content: center;

@@ -16,7 +16,7 @@ function HomeComponent() {
 				text="see my projects"
 				bg="white"
 				fg="black"
-				padding="1em 4em"
+				padding="0.8em 4em"
 			/>
 		</div>
 	);
