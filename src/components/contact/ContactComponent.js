@@ -9,7 +9,7 @@ function ContactComponent() {
 			<HeadingComponent text="contact" />
 			<HeadingText
 				fg="white"
-				text="Please reach out if you have any questions! I'm happy to jump on a video call to brainstorm projects and ideas. Send me an email at jane@example.com or call me directly at +123456789"
+				text="Please reach out if you have anyquestions! Send me an email at ishajain.cv@gmail.com. I'm looking forward to hearing from you."
 			/>
 		</div>
 	);

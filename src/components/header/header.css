@@ -9,7 +9,13 @@ header {
 }
 .header-link {
     text-transform: uppercase;
-    margin-right: 3em;
+    margin-right: 4em;
+    text-decoration: none;
+    color: black;
+}
+.header-link:hover {
+    color: gray;
+    font-weight: 700;
 }
 .left-head {
     display: flex;

@@ -4,9 +4,9 @@
     gap: 1.5em;
     align-items: center;
     justify-content: center;
-    background-color: #4081C5;
+    background-image: linear-gradient(120deg, #1F62B9 0%, #c2e9fb 100%);
     color: white;
     height: 60vh;
     text-align: center;
-    padding: 4em 8em;
+    padding: 4em 12em;
 }

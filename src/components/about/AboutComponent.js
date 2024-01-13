@@ -21,12 +21,12 @@ function AboutComponent() {
 		<div className="about-section-container" id="about">
 			<div className="top-about-sec">
 				<HeadingComponent text="about me" />
-				<HeadingText text="I'm a frontend developer based out of London, UK. I love building apps that solve real-world problems, and that are delightful to use. My specialities include TypeScript, React JS, Tailwind CSS, and Styled Components." />
+				<HeadingText text="I'm a frontend developer based in Gurugram. I love building apps that solve real-world problems, and that are delightful to use. My specialities include React JS, CSS." />
 			</div>
 
 			<div className="left-about-sec">
 				<h2>Get to know me</h2>
-				<HeadingText text="My background is in teaching and marketing. I have a bachelors degree in English from Kings College. When I'm not coding, I take care of my five adorable cats." />
+				<HeadingText text="My background is in finance and compliance. When I'm not coding, I enjoy watching films and swimming as a way to relax and unwind." />
 				<LinkBtnComponent text="contact" />
 			</div>
 			<div className="right-about-sec">

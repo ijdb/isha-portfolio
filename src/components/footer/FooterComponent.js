@@ -6,9 +6,7 @@ function FooterComponent() {
 		<footer className="footer-sec-container">
 			<div className="name-section">
 				<div className="name">Isha Jain</div>
-				<div className="name-text">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit
-				</div>
+				<div className="name-text">Developer</div>
 			</div>
 			<div className="social-section">
 				<div className="social">social</div>
